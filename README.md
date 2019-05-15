@@ -92,6 +92,9 @@ We suggest two different Python editors, but many more are available:
    * Professional version: free with the [education pack][jetbrains-student]
    (available for EPFL students).
 
+'hello'
+
+
 [jupyter]: https://jupyter.org/
 [pycharm]: https://www.jetbrains.com/pycharm/
 [jetbrains]: https://www.jetbrains.com/
